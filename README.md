@@ -1,4 +1,4 @@
-# this is my prokject name Ecomercerweb
+# this is my project name Ecomercerweb
 # First clone these respository  just run below command 
 # cmd  ----> npm install 
 # these command install a requierd dependency on our project 
