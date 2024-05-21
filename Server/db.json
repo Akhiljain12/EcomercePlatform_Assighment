@@ -1,0 +1,35 @@
+{
+  "userDetails": [
+    {
+      "name": "clientName",
+      "email": "email",
+      "phone": "phone",
+      "password": "password",
+      "address": "address",
+      "city": "city",
+      "country": "country",
+      "zip": "zip",
+      "id": "7900"
+    },
+    {
+      "id": "65b7",
+      "name": "Akhil jain",
+      "email": "Akhil@gmail.com",
+      "password": "Akhil@123",
+      "address": "pune",
+      "city": "pune",
+      "country": "india",
+      "zip": "657835"
+    },
+    {
+      "id": "88e5",
+      "name": "divya",
+      "email": "divya@gmail.com",
+      "password": "divya@123",
+      "address": "pune",
+      "city": "pune",
+      "country": "india",
+      "zip": "98288"
+    }
+  ]
+}
